@@ -159,3 +159,24 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-06-19 11:40:27.874
+!MESSAGE Classpath changed for project: InventoryManagementSystem
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-06-19 11:55:25.403
+!MESSAGE Classpath changed for project: EcommercePlatformSearchFunction
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-06-19 11:59:17.368
+!MESSAGE Classpath changed for project: SortingCustomerOrders
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-06-19 12:02:30.455
+!MESSAGE Classpath changed for project: EmployeeManagementSystem
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-06-19 12:05:17.338
+!MESSAGE Classpath changed for project: TaskManagementSystem
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-06-19 12:07:57.074
+!MESSAGE Classpath changed for project: LibraryManagementSystem
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-06-19 12:10:20.192
+!MESSAGE Classpath changed for project: FinancialForecasting
