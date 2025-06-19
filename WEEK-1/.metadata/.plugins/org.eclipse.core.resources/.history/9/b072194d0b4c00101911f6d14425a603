@@ -1,0 +1,6 @@
+package singletonpatternexample;
+
+public class Logger {
+	private Logger logger;
+	private Logger
+}
